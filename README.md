@@ -1,1 +1,1 @@
-# multi-source-Stock-Prediction-GAN-Twitter-Sentiment-Analysis
+#Stock-Prediction-GAN-Twitter-Sentiment-Analysis
